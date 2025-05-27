@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![image](https://github.com/user-attachments/assets/c2e30548-1993-4d26-ab3d-1ddf417c9056)
 </p>
 <p>
-Ken is creating a ticket using the help topic "Business Critical Outage" because customers are reporting that they’re unable to access mobile banking. This categorization helps prioritize the issue and ensures it’s routed to the appropriate team quickly. 
+Karen is creating a ticket using the help topic "Business Critical Outage" because customers are reporting that they’re unable to access mobile banking. This categorization helps prioritize the issue and ensures it’s routed to the appropriate team quickly. 
 </p>
 <br />
 
@@ -39,7 +39,7 @@ Ken is creating a ticket using the help topic "Business Critical Outage" because
 ![image](https://github.com/user-attachments/assets/c4b40b51-c73a-4579-b3cf-836433257570)
 </p>
 <p>
-Agents view live tickets in the Agent Panel. Queue managers will assign priority tickets to the appropriate agent(s) and ensure proper Service Level Agreements (SLAs) are applied. 
+Agents can see live tickets in the Agent Panel and handle incoming issues. Queue managers assign important tickets to the right agents and set the correct SLA plans to make sure they’re resolved on time.
 </p>
 <br />
 

@@ -59,6 +59,6 @@ In this example, we're setting the ticket's priority to Emergency because the is
 ![image](https://github.com/user-attachments/assets/70b888df-5876-4103-b73f-d21cb9513224)
 </p>
 <p>
-The assigned agent works the issue, making sure to communicate with the user at regular intervals. For our example, the agent identified the cause of the problem as being personal networking issues on the user’s end. The status was set to Resolved and an internal note was added to inform all agents involved that the customer was upset. The message between agents emphasized handling the issue with empathy as well as urgency during follow-up communication with the user. As the issue was resolved successfully, the ticket was closed. 
+The assigned agent begins working on the issue, keeping the user informed with regular updates. In this case, the agent identified the problem as an update issue. Once the issue was resolved, the ticket was successfully closed.
 </p>
 <br />

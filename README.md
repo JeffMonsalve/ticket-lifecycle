@@ -49,7 +49,7 @@ Agents can see live tickets in the Agent Panel and handle incoming issues. Queue
 ![image](https://github.com/user-attachments/assets/85dc60a4-0f4a-4c76-8e92-8ca606b8cfa6)
 </p>
 <p>
-In our example, the ticket priority is set to Emergency due to its potential detrimental impact on a critical business area. The SLA plan has been updated accordingly, and the ticket is assigned to a top-level technician. In some ticketing systems, customers can set their own SLA plans.
+In this example, we're setting the ticket's priority to Emergency because the issue could impact a large part of the business. We've also updated the SLA plan and assigned the ticket to a top-level technician. In some ticketing systems, customers may be able to choose their own SLA plans when submitting a ticket.
 </p>
 <br />
 

@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![image](https://github.com/user-attachments/assets/c2e30548-1993-4d26-ab3d-1ddf417c9056)
 </p>
 <p>
-Rachel, one of our users, opens a new ticket under the Business Critical Outage help topic. The issue reported is that the CRM software is down. 
+Ken is creating a ticket using the help topic "Business Critical Outage" because customers are reporting that they’re unable to access mobile banking. This categorization helps prioritize the issue and ensures it’s routed to the appropriate team quickly. 
 </p>
 <br />
 
